@@ -1,0 +1,353 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F525390C20746E0A00EDCC8A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F525390B20746E0A00EDCC8A /* AppDelegate.swift */; };
+		F525390E20746E0A00EDCC8A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F525390D20746E0A00EDCC8A /* ViewController.swift */; };
+		F525391120746E0A00EDCC8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F525390F20746E0A00EDCC8A /* Main.storyboard */; };
+		F525391320746E0A00EDCC8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F525391220746E0A00EDCC8A /* Assets.xcassets */; };
+		F525391620746E0A00EDCC8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F525391420746E0A00EDCC8A /* LaunchScreen.storyboard */; };
+		F525392320746EA100EDCC8A /* frame5.png in Resources */ = {isa = PBXBuildFile; fileRef = F525391E20746EA100EDCC8A /* frame5.png */; };
+		F525392420746EA100EDCC8A /* frame3.png in Resources */ = {isa = PBXBuildFile; fileRef = F525391F20746EA100EDCC8A /* frame3.png */; };
+		F525392520746EA100EDCC8A /* frame2.png in Resources */ = {isa = PBXBuildFile; fileRef = F525392020746EA100EDCC8A /* frame2.png */; };
+		F525392620746EA100EDCC8A /* frame1.png in Resources */ = {isa = PBXBuildFile; fileRef = F525392120746EA100EDCC8A /* frame1.png */; };
+		F525392720746EA100EDCC8A /* frame4.png in Resources */ = {isa = PBXBuildFile; fileRef = F525392220746EA100EDCC8A /* frame4.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F525390820746E0A00EDCC8A /* Alien image Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alien image Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F525390B20746E0A00EDCC8A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F525390D20746E0A00EDCC8A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F525391020746E0A00EDCC8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F525391220746E0A00EDCC8A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F525391520746E0A00EDCC8A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F525391720746E0A00EDCC8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F525391E20746EA100EDCC8A /* frame5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame5.png; sourceTree = "<group>"; };
+		F525391F20746EA100EDCC8A /* frame3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame3.png; sourceTree = "<group>"; };
+		F525392020746EA100EDCC8A /* frame2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame2.png; sourceTree = "<group>"; };
+		F525392120746EA100EDCC8A /* frame1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame1.png; sourceTree = "<group>"; };
+		F525392220746EA100EDCC8A /* frame4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frame4.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F525390520746E0A00EDCC8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F52538FF20746E0A00EDCC8A = {
+			isa = PBXGroup;
+			children = (
+				F525390A20746E0A00EDCC8A /* Alien image Animation */,
+				F525390920746E0A00EDCC8A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F525390920746E0A00EDCC8A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F525390820746E0A00EDCC8A /* Alien image Animation.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F525390A20746E0A00EDCC8A /* Alien image Animation */ = {
+			isa = PBXGroup;
+			children = (
+				F525391D20746E8E00EDCC8A /* New Group */,
+				F525390B20746E0A00EDCC8A /* AppDelegate.swift */,
+				F525390D20746E0A00EDCC8A /* ViewController.swift */,
+				F525390F20746E0A00EDCC8A /* Main.storyboard */,
+				F525391220746E0A00EDCC8A /* Assets.xcassets */,
+				F525391420746E0A00EDCC8A /* LaunchScreen.storyboard */,
+				F525391720746E0A00EDCC8A /* Info.plist */,
+			);
+			path = "Alien image Animation";
+			sourceTree = "<group>";
+		};
+		F525391D20746E8E00EDCC8A /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				F525392120746EA100EDCC8A /* frame1.png */,
+				F525392020746EA100EDCC8A /* frame2.png */,
+				F525391F20746EA100EDCC8A /* frame3.png */,
+				F525392220746EA100EDCC8A /* frame4.png */,
+				F525391E20746EA100EDCC8A /* frame5.png */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F525390720746E0A00EDCC8A /* Alien image Animation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F525391A20746E0A00EDCC8A /* Build configuration list for PBXNativeTarget "Alien image Animation" */;
+			buildPhases = (
+				F525390420746E0A00EDCC8A /* Sources */,
+				F525390520746E0A00EDCC8A /* Frameworks */,
+				F525390620746E0A00EDCC8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Alien image Animation";
+			productName = "Alien image Animation";
+			productReference = F525390820746E0A00EDCC8A /* Alien image Animation.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F525390020746E0A00EDCC8A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = D7703_22;
+				TargetAttributes = {
+					F525390720746E0A00EDCC8A = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = F525390320746E0A00EDCC8A /* Build configuration list for PBXProject "Alien image Animation" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F52538FF20746E0A00EDCC8A;
+			productRefGroup = F525390920746E0A00EDCC8A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F525390720746E0A00EDCC8A /* Alien image Animation */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F525390620746E0A00EDCC8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F525392420746EA100EDCC8A /* frame3.png in Resources */,
+				F525391620746E0A00EDCC8A /* LaunchScreen.storyboard in Resources */,
+				F525392520746EA100EDCC8A /* frame2.png in Resources */,
+				F525392320746EA100EDCC8A /* frame5.png in Resources */,
+				F525392720746EA100EDCC8A /* frame4.png in Resources */,
+				F525391320746E0A00EDCC8A /* Assets.xcassets in Resources */,
+				F525392620746EA100EDCC8A /* frame1.png in Resources */,
+				F525391120746E0A00EDCC8A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F525390420746E0A00EDCC8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F525390E20746E0A00EDCC8A /* ViewController.swift in Sources */,
+				F525390C20746E0A00EDCC8A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F525390F20746E0A00EDCC8A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F525391020746E0A00EDCC8A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F525391420746E0A00EDCC8A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F525391520746E0A00EDCC8A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F525391820746E0A00EDCC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F525391920746E0A00EDCC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F525391B20746E0A00EDCC8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Alien image Animation/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "dit.co.kr.Alien-image-Animation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F525391C20746E0A00EDCC8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Alien image Animation/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "dit.co.kr.Alien-image-Animation";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F525390320746E0A00EDCC8A /* Build configuration list for PBXProject "Alien image Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F525391820746E0A00EDCC8A /* Debug */,
+				F525391920746E0A00EDCC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F525391A20746E0A00EDCC8A /* Build configuration list for PBXNativeTarget "Alien image Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F525391B20746E0A00EDCC8A /* Debug */,
+				F525391C20746E0A00EDCC8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F525390020746E0A00EDCC8A /* Project object */;
+}
